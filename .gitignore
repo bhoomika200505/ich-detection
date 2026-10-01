@@ -1,0 +1,14 @@
+subset_data/
+samples/
+rsna_png_data/
+*.zip
+*.tar.gz
+*.pt
+*.pth
+train_split.csv
+val_split.csv
+__pycache__/
+.ipynb_checkpoints/
+.env
+kaggle.json
+access_token
